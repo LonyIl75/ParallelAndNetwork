@@ -3,7 +3,7 @@
 
 /**
  * fichier: Parser.c
- * auteur: Rambal Julien (ft Bazire Jonathan)
+ * auteur: Rambal Julien (ft BazJo)
  * description : Fichier definissant toutes les composantes essentielles à un GraphData
 **/
 
